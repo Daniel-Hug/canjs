@@ -92,7 +92,7 @@ going to code our model as if we were. How can this possibly work? CanJS
 provides a handy utility, `can.fixture`, that we can use to easily mimic the
 functionality of connecting to a server. `can.fixture`
 intercepts an AJAX request and simulates a server response with a file or a
-function. You can use `can.fixture` to develop JavaScript independently of
+function. You can use `can.fixture` to develop JavaScript independent of
 backend services.
 
 `can.fixture` is not included with the base CanJS package. It’s a good practice
